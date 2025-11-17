@@ -1,0 +1,50 @@
+.grid-section {
+    .grid-section__box {
+        .grid-section__image {
+
+        }
+
+        .grid-section__title {
+
+        }
+
+        .grid-section__sub-title {
+
+        }
+    }
+
+    .grid-section__box--large {
+
+    }
+
+    .grid-section__box--wide {
+
+    }
+}
+
+.grid-section {
+    &__box {
+        &__title {
+            
+        }
+    }
+
+    &__box--large {
+
+    }
+}
+
+
+
+
+.grid-section {
+
+}
+
+.grid-section__box {
+
+}
+
+.grid-section__box--large {
+
+}
